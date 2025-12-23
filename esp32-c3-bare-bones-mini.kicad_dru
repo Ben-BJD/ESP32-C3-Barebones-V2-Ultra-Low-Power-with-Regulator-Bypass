@@ -1,0 +1,9 @@
+(version 1)
+(rule "Allow Castellated Pads and Tracks"
+    (condition "A.Parent == 'J1' || A.Parent == 'J2'")
+    (constraint edge_clearance (min -1mm))
+)
+(rule "Allow Castellated Copper"
+    (condition "A.NetName == 'GPIO*' || A.NetName == 'U0*' || A.NetName == 'GND' || A.NetName == 'FUSE_VCC' || A.NetName == 'CHIP_PU'")
+    (constraint edge_clearance (min -1mm))
+)
