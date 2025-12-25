@@ -4,6 +4,6 @@
     (constraint edge_clearance (min -1mm))
 )
 (rule "Allow Castellated Copper"
-    (condition "A.NetName == 'GPIO*' || A.NetName == 'U0*' || A.NetName == 'GND' || A.NetName == 'FUSE_VCC' || A.NetName == 'CHIP_PU'")
+    (condition "A.NetName == 'GPIO*' || A.NetName == 'U0*' || A.NetName == 'GND' || A.NetName == 'VCC_3V3' || A.NetName == 'CHIP_PU'")
     (constraint edge_clearance (min -1mm))
 )

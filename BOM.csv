@@ -1,0 +1,14 @@
+Reference,Qty,Value,DNP,Footprint,Product Link
+"C1,C6,C7",3,1uF 16V 10%,,easyeda2kicad:C0805,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21B105KOFNNNE_1uF-105-10-16V_C24123.html
+"C2,C4,C5",3,0.1uF 50V 10%,,easyeda2kicad:C0805,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_C0805B104K500NT_C476766.html
+C3,1,10uF 25V 20%,,easyeda2kicad:C0805,https://www.lcsc.com/product-detail/C669099.html 
+"C8,C9",2,47uf 10V 20%,,CL31A476MPHNNNE:C1206,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL31A476MPHNNNE_47uF-476-20-10V_C96123.html
+H1,1,PROG,,easyeda2kicad:HDR-SMD_4P-P2.54-V-M-R2-C2-LS7.5,https://www.lcsc.com/product-detail/C919361.html 
+J3,1,BATT,,B2B-PH-SM4-TB:JST_B2B-PH-SM4-TB,https://www.digikey.com.au/en/products/detail/jst-sales-america-inc/B2B-PH-SM4-TB/926831
+"R1,R2,R3,R4",4,10k 1%,,easyeda2kicad:R0805,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10KR-1002-1_C17414.html
+"SW1,SW2",2,~,,easyeda2kicad:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5,https://lcsc.com/product-detail/Tactile-Switches_XKB-Enterprise-TS-1187-B-A-A_C318884.html
+SW3,1,Slide Switch,,G-Switch MS-22D28-G020:SW-SMD_MS-22D28-G020,https://lcsc.com/product-detail/Toggle-Switches_G-Switch-MS-22D28-G020_C963205.html
+U1,1,ESP32-C3-MINI-1,ESP32-C3-MINI-1-H4X,PCM_Espressif:ESP32-C3-MINI-1,https://www.lcsc.com/product-detail/C41349510.html?s_z=s_ESP32-C3-MINI-1-H4X 
+U1,1,ESP32-C3-MINI-1,ESP32-C3-MINI-1U-N4X,PCM_Espressif:ESP32-C3-MINI-1,https://www.digikey.com/en/products/detail/espressif-systems/esp32-c3-mini-1u-n4x/27525543
+U1,1,Antenna,,-,https://www.digikey.com.au/en/products/detail/yic/ATIF2458G-3010/21804188 
+U2,1,LDO,,RT9080-33GJ5:TSOT-23-5_RIT-M,https://www.digikey.com/en/products/detail/richtek-usa-inc/RT9080-33GJ5/6161634
