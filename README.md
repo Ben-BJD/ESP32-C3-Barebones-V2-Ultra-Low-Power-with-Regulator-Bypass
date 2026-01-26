@@ -1,9 +1,11 @@
 # ESP32-C3 Bare Bones (V2): Ultra-Low Power with Regulator Bypass - KiCAD Source Files
 
-## ⚠️ This project is a work in progress. The design is finished but I still need to assemble and test a finished product. ETA Jan/Feb 2026
+![Assembled Board](esp32-bare-bones-v2.jpg)
+Fig 1 - Assembled Board
+---
 
-![Assembled Board](board-3d-view.png)
-
+![Kicad 3D View](board-3d-view.png)
+Fig 2 - 3D view of Board
 ---
 
 ## Overview
