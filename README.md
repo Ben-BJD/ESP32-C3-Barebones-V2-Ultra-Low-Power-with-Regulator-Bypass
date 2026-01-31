@@ -1,5 +1,7 @@
 # ESP32-C3 Bare Bones (V2): Ultra-Low Power with Regulator Bypass - KiCAD Source Files
 
+[![Project Available on PCBWay](pcb-project-image.png)](https://www.pcbway.com/project/shareproject/ESP32_C3_Bare_Bones_V2_Ultra_Low_Power_with_Regulator_Bypass_b012ada1.html)
+
 ![Assembled Board](esp32-bare-bones-v2.jpg)
 Fig 1 - Assembled Board
 ---
@@ -56,6 +58,8 @@ Connect your FTDI programmer as follows:
 To enter bootloader mode, hold down the `BOOT` button, press and release the `RESET` button, and then release the `BOOT` button.
 
 ---
+
+[![Project Available on PCBWay](pcb-project-image.png)](https://www.pcbway.com/project/shareproject/ESP32_C3_Bare_Bones_V2_Ultra_Low_Power_with_Regulator_Bypass_b012ada1.html)
 
 ## Resources
 
