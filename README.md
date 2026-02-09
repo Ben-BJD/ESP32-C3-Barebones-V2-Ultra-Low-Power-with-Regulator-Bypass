@@ -1,5 +1,7 @@
 # ESP32-C3 Bare Bones (V2): Ultra-Low Power with Regulator Bypass - KiCAD Source Files
 
+[![Watch the Tutorial](https://img.shields.io/badge/Watch-YouTube_Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/tColse-bNuY) [![Read the Article](https://img.shields.io/badge/Read-Website_Article-blue?style=for-the-badge&logo=firefox)](https://bj-dehaan-solutions.com.au/articles/arduino-esp32-iot/hand-assembling-an-esp32-pcb-tutorial-stencils-reflow-and-the-quest-for-low-power)
+
 [![Project Available on PCBWay](pcb-project-image.png)](https://www.pcbway.com/project/shareproject/ESP32_C3_Bare_Bones_V2_Ultra_Low_Power_with_Regulator_Bypass_b012ada1.html)
 
 ![Assembled Board](esp32-bare-bones-v2.jpg)
@@ -59,9 +61,11 @@ To enter bootloader mode, hold down the `BOOT` button, press and release the `RE
 
 ---
 
-[![Project Available on PCBWay](pcb-project-image.png)](https://www.pcbway.com/project/shareproject/ESP32_C3_Bare_Bones_V2_Ultra_Low_Power_with_Regulator_Bypass_b012ada1.html)
-
 ## Resources
+
+[![Watch the Tutorial](https://img.shields.io/badge/Watch-YouTube_Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/tColse-bNuY) [![Read the Article](https://img.shields.io/badge/Read-Website_Article-blue?style=for-the-badge&logo=firefox)](https://bj-dehaan-solutions.com.au/articles/arduino-esp32-iot/hand-assembling-an-esp32-pcb-tutorial-stencils-reflow-and-the-quest-for-low-power)
+
+[![Project Available on PCBWay](pcb-project-image.png)](https://www.pcbway.com/project/shareproject/ESP32_C3_Bare_Bones_V2_Ultra_Low_Power_with_Regulator_Bypass_b012ada1.html)
 
 *   **ESP32-C3-MINI-1 MCU Datasheet:** [PDF Link](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf)
 *   **ESP32-C3 Hardware Design Guidelines:** [Documentation Link](https://www.espressif.com/sites/default/files/documentation/esp32-c3_hardware_design_guidelines_en.pdf)
